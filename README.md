@@ -14,3 +14,5 @@ I've been stressing over making a generic bases for things.
 Also considering we we're gonna have Accounts, Books, Reviews, and somehow a discussions section.
 
 I've been nothing but unproductive.
+
+Sorry to myself.
